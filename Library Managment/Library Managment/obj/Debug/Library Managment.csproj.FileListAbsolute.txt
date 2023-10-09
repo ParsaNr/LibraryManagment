@@ -1,0 +1,17 @@
+E:\Coding\C#\Library Managment\Library Managment\Library Managment\bin\Debug\Library Managment.exe.config
+E:\Coding\C#\Library Managment\Library Managment\Library Managment\bin\Debug\Library Managment.exe
+E:\Coding\C#\Library Managment\Library Managment\Library Managment\bin\Debug\Library Managment.pdb
+E:\Coding\C#\Library Managment\Library Managment\Library Managment\obj\Debug\Library_Managment.Properties.Resources.resources
+E:\Coding\C#\Library Managment\Library Managment\Library Managment\obj\Debug\Library Managment.csproj.GenerateResource.cache
+E:\Coding\C#\Library Managment\Library Managment\Library Managment\obj\Debug\Library Managment.csproj.CoreCompileInputs.cache
+E:\Coding\C#\Library Managment\Library Managment\Library Managment\obj\Debug\Library Managment.exe
+E:\Coding\C#\Library Managment\Library Managment\Library Managment\obj\Debug\Library Managment.pdb
+E:\Coding\C#\Library Managment\Library Managment\Library Managment\obj\Debug\Library Managment.csproj.AssemblyReference.cache
+E:\Coding\C#\Library Managment\Library Managment\Library Managment\obj\Debug\Library_Managment.AddBooks.resources
+E:\Coding\C#\Library Managment\Library Managment\Library Managment\obj\Debug\Library_Managment.Dashbord.resources
+E:\Coding\C#\Library Managment\Library Managment\Library Managment\obj\Debug\Library_Managment.Login.resources
+E:\Coding\C#\Library Managment\Library Managment\Library Managment\obj\Debug\Library_Managment.ViewBooks.resources
+E:\Coding\C#\Library Managment\Library Managment\Library Managment\obj\Debug\Library_Managment.AddStudent.resources
+E:\Coding\C#\Library Managment\Library Managment\Library Managment\obj\Debug\Library_Managment.ViewStudentsInfo.resources
+E:\Coding\C#\Library Managment\Library Managment\Library Managment\obj\Debug\Library_Managment.IssueBooks.resources
+E:\Coding\C#\Library Managment\Library Managment\Library Managment\obj\Debug\Library_Managment.ReturnBook.resources

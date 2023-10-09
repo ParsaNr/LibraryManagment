@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Library_Managment.AddBooks" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAQCACABUCAACAAGAiAAAAABAAAAAAAQJQAAA=</HashCode>
+      <FileName>AddBooks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library_Managment.AddStudent" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAEAAAAECASCBAAAACAAAACACAAgJAAAAAAAwJAAAQ=</HashCode>
+      <FileName>AddStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library_Managment.Dashbord" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARGAAAIAAGABAIAAAgCBQAACAACAAAAEAAAYAAAJBAA=</HashCode>
+      <FileName>Dashbord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library_Managment.IssueBooks" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MgAAABAQECASCBACBADAEAACACAAgIAgAAAAAwBBAgY=</HashCode>
+      <FileName>IssueBooks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library_Managment.Login" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAgAABAAACACAAAAAACAAAACCIAgCAAAABAAAAFIAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library_Managment.Program" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library_Managment.ReturnBook" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAECAWCBUCAACgEEACASgAAAAwACAAAYQBAAI=</HashCode>
+      <FileName>ReturnBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library_Managment.IssueBook" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Services\IssueBook.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Library_Managment.LoginTableRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\LibraryManagment.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Library_Managment.NewBook" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\NewBook.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Library_Managment.NewStudent" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\NewStudent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Library_Managment.ReturnBooks" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Services\ReturnBooks.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Library_Managment.ViewBook" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAAAAgAAAAAAAAAAAEAAAAAAAAAAAAgACA=</HashCode>
+      <FileName>Services\ViewBook.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Library_Managment.ViewStudentInfoo" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAAAAgAAAAAAAAAAAEAAAAAAAAAAAAgACA=</HashCode>
+      <FileName>Services\ViewStudentInfoo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Library_Managment.ViewBooks" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAARCAeCBUQAACAAGAiAAgAAAAUAAAQAQBQQYQ=</HashCode>
+      <FileName>ViewBooks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library_Managment.ViewStudentsInfo" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhAAAAAABCIeCBMQAACAAEACAAgAgIAQIAAAAwBAAQQ=</HashCode>
+      <FileName>ViewStudentsInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library_Managment.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library_Managment.Properties.Settings" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Library_Managment.IIssueBook" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Repository\IIssueBook.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Library_Managment.ILoginTableRepository" Collapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repository\ILibraryManagmentRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Library_Managment.INewBookRepository" Collapsed="true">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repository\INewBookRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Library_Managment.INewStudentRepository" Collapsed="true">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repository\INewStudentRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Library_Managment.IReturnBookRepository" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Repository\IReturnBookRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Library_Managment.IViewBook" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAgACA=</HashCode>
+      <FileName>Repository\IViewBookRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Library_Managment.IViewStudentInfoRepository" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAgACA=</HashCode>
+      <FileName>Repository\IViewStudentInfoRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
